@@ -1,92 +1,35 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
-
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | A Linguagem do Corpo: Decodificando 'Hips Don't Lie'                                                        |
+| conteúdo | O videoclipe *Hips Don't Lie* de Shakira, lançado em 2006, é um exemplo paradigmático da complexa relação entre mídia, publicidade e consumo cultural. Este trabalho busca explorar as interações entre as representações simbólicas, culturais e ideológicas presentes nesse videoclipe, com foco nos elementos de som, corpo e imagem, e como essas dimensões se entrelaçam para produzir um discurso midiático multifacetado. Usando as ferramentas analíticas do contrato midiático de Charaudeau (2007) e as perspectivas do televisual de Soulages (2008), vamos investigar como a mídia mobiliza essas representações em uma estrutura híbrida composta pelos estratos de informação, persuasão e sedução. Dentre esses, a sedução se revela como o elemento central, especialmente por meio da exposição performática do corpo feminino e da manipulação de sons e imagens.
 
+### O Contrato Midiático e as Representações Culturais
 
-Midjourney：
+O conceito de contrato midiático, conforme delineado por Charaudeau (2007), descreve a relação estabelecida entre emissor e receptor, onde o público, consciente ou não, concorda em consumir uma determinada mensagem, muitas vezes através de um pacto implícito de expectativas. Em *Hips Don't Lie*, o videoclipe estabelece esse vínculo com o público ao oferecer uma experiência sensorial envolvente, permeada por significados culturais e simbólicos, principalmente no que diz respeito à dança, à música e à presença marcante de Shakira. O corpo feminino de Shakira, não apenas como um objeto de desejo, mas como um veículo para o discurso cultural, torna-se o centro de uma mensagem poderosa, que comunica tanto a sensualidade quanto o empoderamento feminino.
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+Através de uma estética performática, Shakira incorpora o corpo como uma linguagem cultural que transita entre diversas representações e estereótipos, celebrando tanto sua própria identidade cultural como a universalidade da dança. A coreografia vibrante e o uso estratégico de movimentos corporais não se limitam à exibição de um corpo físico, mas fazem parte de uma construção simbólica que dialoga com a ideia de poder, sensualidade e liberdade. Em um contexto globalizado, o videoclipe de *Hips Don't Lie* constrói um espaço de intercâmbio cultural onde a sensualidade da dança transcende barreiras, refletindo tanto as tradições culturais latinas quanto os desejos e fantasias projetados pela indústria da música pop.
+
+### A Persuasão e a Sedução no Estrato Visual
+
+A análise dos instrumentos de investigação do televisual, conforme sugerido por Soulages (2008), permite perceber como o videoclipe manipula esteticamente as dimensões visuais e sonoras para envolver e seduzir o espectador. A combinação da música envolvente com a coreografia de Shakira cria uma atmosfera sensorial que atinge o público não apenas no plano cognitivo, mas também emocional e físico. A música de *Hips Don't Lie* utiliza uma base rítmica pulsante que ressoa no inconsciente do espectador, gerando uma identificação imediata com o ritmo da dança e com a performance. A sensualidade e a força da música, aliadas aos gestos corporais de Shakira, criam uma ligação direta entre som, movimento e desejo.
+
+O videoclipe explora, de forma estratégica, o corpo feminino como elemento central da sedução visual. O foco da câmera, muitas vezes em planos próximos, acentua a curvatura e a fluididade do corpo de Shakira, reforçando a relação entre sensualidade e o consumo da imagem. A exposição do corpo se dá de maneira que, ao mesmo tempo que seduz, carrega um sentido cultural e simbólico. A maneira como a câmera se move, acompanha e enaltece os gestos de dança transmite a sensação de um convite à imersão no universo da artista, fazendo com que o espectador se sinta atraído por sua performance visual e sua presença carismática.
+
+### Hibridismo entre Informação, Persuasão e Sedução
+
+O videoclipe de *Hips Don't Lie* se destaca pela fusão dos estratos de informação, persuasão e sedução. Cada um desses elementos se entrelaça e contribui para a construção de um discurso midiático que não apenas informa, mas também provoca e encanta. O estrato informativo, embora presente de maneira sutil, se manifesta nas referências culturais da música e da dança. A coreografia e os cenários remetem a diversas tradições culturais de diferentes partes do mundo, mas principalmente às raízes latinas de Shakira, conectando a audiência com uma ideia de celebração da diversidade e da riqueza cultural.
+
+Porém, o estrato persuasivo é igualmente crucial para entender como o videoclipe busca capturar a atenção do espectador e engajá-lo no consumo da imagem e do produto cultural. A construção da imagem de Shakira, que mescla sensualidade e poder, é realizada de forma meticulosa, com a combinação de dança, figurino e movimentos corporais que visam não apenas atrair, mas persuadir o público a consumir essa representação do corpo feminino. O videoclipe não apenas promove a artista como ícone pop, mas também a posiciona como um símbolo de empoderamento e modernidade feminina, ao mesmo tempo que a exibe como objeto de desejo e sedução.
+
+Entretanto, é no estrato da sedução que o videoclipe se torna mais evidente. A sedução não se limita a um apelo físico, mas é construída através de uma interação entre som, corpo e imagem, criando um vínculo emocional e psicológico com o espectador. Como observa Soulages (2008), a sedução midiática é caracterizada pela capacidade da imagem e do som de estabelecer uma relação profunda e visceral com o público, envolvendo-o em uma experiência sensorial que vai além da simples contemplação. O videoclipe de *Hips Don’t Lie* utiliza essas ferramentas para seduzir, manipulando as representações do corpo feminino de forma que elas se tornem um canal para a comunicação de ideais de beleza, desejo e poder.
+
+### Conclusão
+
+Em suma, *Hips Don't Lie* de Shakira é um videoclipe multifacetado que opera como uma obra midiática estratégica, englobando os estratos de informação, persuasão e sedução. A sedução, como elemento central, se manifesta na forma como o corpo de Shakira é exibido como uma linguagem visual e simbólica de poder e sensualidade. A interação entre som, corpo e imagem cria um espaço de consumo cultural, onde a dança e a música não apenas celebram a diversidade, mas também seduzem o espectador, formando um vínculo emocional que vai além da mera exibição de um produto musical. Utilizando as ferramentas analíticas de Charaudeau (2007) e Soulages (2008), podemos entender como o videoclipe de *Hips Don't Lie* não é apenas uma obra de entretenimento, mas um reflexo das dinâmicas de consumo cultural e das representações ideológicas na sociedade contemporânea. Ao explorar o hibridismo entre os estratos midiáticos, o videoclipe se revela como um exemplo paradigmático da maneira como a publicidade, a mídia e a cultura popular operam em conjunto, influenciando e sendo influenciados pelas relações sociais e ideológicas do mundo moderno. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+- Imagens geradas via DALL·E 3
